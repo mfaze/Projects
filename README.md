@@ -1,2 +1,1 @@
-# Projects
-Static web page 
+#Static web page 
